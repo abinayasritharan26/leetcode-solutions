@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
