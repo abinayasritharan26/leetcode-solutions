@@ -30,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
