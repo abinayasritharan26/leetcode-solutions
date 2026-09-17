@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -44,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
