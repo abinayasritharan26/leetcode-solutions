@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
