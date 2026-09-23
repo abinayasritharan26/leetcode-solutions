@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Two Pointers
 |  |
