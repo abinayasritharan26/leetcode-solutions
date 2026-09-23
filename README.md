@@ -82,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
