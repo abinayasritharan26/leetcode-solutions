@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+//iterative method//
     int kthSmallest(TreeNode* root, int k) {
 
         stack<TreeNode*> st;
