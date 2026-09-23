@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Two Pointers
