@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
