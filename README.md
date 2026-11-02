@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
