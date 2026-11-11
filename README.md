@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0622-design-circular-queue](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
