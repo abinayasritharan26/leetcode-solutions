@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search Tree
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Binary Lifting
 |  |
