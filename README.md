@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
