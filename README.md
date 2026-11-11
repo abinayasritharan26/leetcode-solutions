@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search Tree
 |  |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abinayasritharan26/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
